@@ -4,40 +4,40 @@ IDAS_WORKSHOP_2014
 Prototyping with Creative Coding Workshop Syllabus
 ================
 
-A "syllabus" and repository of p5 examples for IDAS Winter workshop for **beginners** about creative coding and pratical coding. The workshop will focus on students being able to understand and independently make simple code-based prototypes. The results could be and are not limited to **graphical interfaces**, **web-based interactive apps**, **Coded Media Art**, and etc...
-
+A "syllabus" and repository of p5 examples for IDAS Winter workshop for **beginners** about creative coding and practical coding. The workshop will focus on students being able to understand and independently make simple code-based prototypes. The results could be and are not limited to **graphical interactions, web-based interactions, Creative Media Art**, and etc..., but all depends on the **student’s willingness to explore!**
 Purpose is to familiarize students with coding as a creative discipline. And letting them play with coding as a means for lateral thinking. 
-
 Let's get our hands dirty!
+
 
 # Day 1, 10AM-5PM
 
 ## 10:00 AM - Overview of day
-* Speech vs Text
+* What is Creative Coding?
 * Basics of Coding
-* Interactions
-* Pensive Coding 
-* Internet Interactions
+* Making Interactions
 
-## 10:20 AM - Reference Projects
+## 10:30 AM - Reference Projects & Resources for further Exploration
 
-* Creative Coding
+* Creative Coding Artists
 	* John Maeda
 	* Casey Reas
 	* Luke DuBois
+	* Shiffman
+	* Kyle McDonald
+	* James George
+	* Lauren McCarthy
+* Creative Coding Projects
 	* Clouds interactive
 	* jer Thorpe data art
+* Tutorial Sites, Github Repositories
+* Other Computer Languages for Creative Coding
 	* d3
 	* processing
 	* three.js
 	* openframeworks
 	* cinder
-	* Shiffman
-	* Kyle McDonald
-	* James George
-	* Lauren McCarthy
 
-## 10:45 AM - Basics of Coding
+## 11:00 AM - Basics of Coding
 * Setting up
 	* download files from github
 	* download p5, emptyExample
@@ -53,29 +53,42 @@ Let's get our hands dirty!
 	* noFill()
 	* strokeWeight(int)
 	* color: rgb / 0-255
+* Conditioning Movement
+	* conditionals
+		* if
+		* else
+		* elseif
+	* loops
+		*for loop
+* Visualization & State Transitions
+	* loops (for(var i = 0; i < length; i++)) size/color(inc/dec)
+	* mouseX & mouseY
+	* random()
+	* mousePressed, KeyPressed
+	* strings
 
-* Assignment: Digital Poster of a portrait/movie/album Vector style
-
+* Assignment: 
+	* Interactive Poster of a portrait/movie/album Vector style
+	* Coded Art
+	
 ## 12:30 PM - Lunch
 
-## 1:30 PM - Interaction
-* How it works
+## 13:30 PM - Making Interactions
+* Functions
     * mouseX, mouseY
     * random()
     * draw(){}
 	    * add
 	    * subtract
 	* sound
-* Coding languages
-	* conditionals (if, else, elseif, mousePressed, keyPressed)
-	* loops (for(var i = 0; i < length; i++)) size/color(inc/dec)
-	
-## 2:00 PM - Pensive Coding
+
+## 14:00 PM - Pensive Coding
 * For loops
 * Arrays
 * Examples
 	* [Bouncing ball]()
 	* [Word appearance]() fonts, words, strings, arrays
+	
 ## 3:00 PM - Internet Interaction
 * Array of words
 * Objects (JSON, DATA)
