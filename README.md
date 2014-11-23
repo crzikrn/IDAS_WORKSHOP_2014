@@ -1,4 +1,4 @@
-IDAS_WORKSHOP_2014
+IDAS_WORKSHOP_2014 [WORK IN PROGRESS]
 ==================
 
 Prototyping with Creative Coding Workshop Syllabus
@@ -64,8 +64,10 @@ Let's get our hands dirty!
 	* loops (for(var i = 0; i < length; i++)) size/color(inc/dec)
 	* mouseX & mouseY
 	* random()
-	* mousePressed, KeyPressed
-	* strings
+* If time allows
+ 	* strings
+ 	* arrays
+ 	* sound
 
 * Assignment: 
 	* Interactive Poster of a portrait/movie/album Vector style
@@ -80,7 +82,6 @@ Let's get our hands dirty!
     * draw(){}
 	    * add
 	    * subtract
-	* sound
 
 ## 14:00 PM - Pensive Coding
 * For loops
