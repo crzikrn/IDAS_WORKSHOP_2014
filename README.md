@@ -19,15 +19,16 @@ Let's get our hands dirty!
 ## 10:30 AM - Reference Projects & Resources for further Exploration
 
 * Creative Coding Artists
-	* John Maeda
-	* Casey Reas
+	* [John Maeda](http://www.ted.com/talks/john_maeda_on_the_simple_life)
+	* [John Maeda](http://www.maedastudio.com/index.php)
+	* [Casey Reas](http://reas.com/)
 	* Luke DuBois
 	* Shiffman
-	* Kyle McDonald
+	* [Kyle McDonald](http://vimeo.com/29348533)
 	* James George
 	* Lauren McCarthy
 * Creative Coding Projects
-	* Clouds interactive
+	* [Clouds interactive](http://www.cloudsdocumentary.com/)
 	* jer Thorpe data art
 * Tutorial Sites, Github Repositories
 * Other Computer Languages for Creative Coding
