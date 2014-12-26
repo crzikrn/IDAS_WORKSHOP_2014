@@ -19,13 +19,13 @@ Let's get our hands dirty!
 ## 10:30 AM - Reference Projects & Resources for further Exploration
 
 * Creative Coding Artists
-	* [John Maeda](http://www.ted.com/talks/john_maeda_on_the_simple_life)|[Site](http://www.maedastudio.com/index.php)
+	* [John Maeda](http://www.ted.com/talks/john_maeda_on_the_simple_life) | [Site](http://www.maedastudio.com/index.php)
 	* [Casey Reas](http://reas.com/)
 	* Luke DuBois
-	* [Daniel Shiffman](http://shiffman.net/)|[Videos](http://vimeo.com/channels/introcompmedia)
+	* [Daniel Shiffman](http://shiffman.net/) | [Videos](http://vimeo.com/channels/introcompmedia)
 	* [Kyle McDonald](http://vimeo.com/29348533)
-	* [James George](http://jamesgeorge.org/)|[Github](https://github.com/obviousjim)
-	* [Greg Borenstein](http://gregborenstein.com/)|[Kinect Tutorial](http://csce.uark.edu/~jgauch/5703/other/books/Making_Things_See.pdf)
+	* [James George](http://jamesgeorge.org/) | [Github](https://github.com/obviousjim)
+	* [Greg Borenstein](http://gregborenstein.com/) | [Kinect Tutorial](http://csce.uark.edu/~jgauch/5703/other/books/Making_Things_See.pdf)
 	* Lauren McCarthy
 * Creative Coding Projects
 	* [Clouds interactive](http://www.cloudsdocumentary.com/)
