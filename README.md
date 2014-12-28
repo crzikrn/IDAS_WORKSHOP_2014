@@ -40,7 +40,7 @@ Let's get our hands dirty!
 
 ## 11:00 AM - Basics of Coding
 * Setting up
-	* download processing
+	* [download processing](https://processing.org/download/)
 	* testing if it works
 * Positions, Shapes, and Colors
 	* Locating ourselves: Pixels and cartesian Coordinates
