@@ -19,7 +19,7 @@ Let's get our hands dirty!
 ## 10:30 AM - Reference Projects & Resources for further Exploration
 
 * Creative Coding Artists
-	* [John Maeda](http://www.ted.com/talks/john_maeda_on_the_simple_life) | [Site](http://www.maedastudio.com/index.php)
+	* [John Maeda](http://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders) | [Site](http://www.maedastudio.com/index.php)
 	* [Casey Reas](http://reas.com/)
 	* Luke DuBois
 	* [Daniel Shiffman](http://shiffman.net/) | [Videos](http://vimeo.com/channels/introcompmedia)
