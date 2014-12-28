@@ -12,9 +12,9 @@ Let's get our hands dirty!
 # Day 1, 10AM-5PM
 
 ## 10:00 AM - Overview of day
-* What is Creative Coding?
-* Basics of Coding
-* Making Interactions
+* What is Creative Coding? : "Technology is all around us" says anyone living today. There is value in creating digital content and technologists are on top of this value pyramid. However, being a technologist is not limited to engineers, it is a skillset that can be picked up by anyone and a skillset everyone should have. Computer programming is a skillset that is in the center of all this. Creative coding is an approachable way to learn this modern language for everyone. Not only is creative coding a way to learn programming, but a methodology to design emergent solutions to simple problems large corporations can not tackle.
+* Basics of Coding : Coding is a manner of speaking. It is an international language in our modern age. Programming is at the heart of computer driven communities, which basically means everything today. Simply put, programming is a communication method for human to computer interactions.
+* Making Interactions : Computers are interactive in its artificial nature, therefore coding, the communication tool, is interactive. Creative coding is making interaction more down to earth. A humanizing method for expression and communication what is essentially between human and human.
 
 ## 10:30 AM - Reference Projects & Resources for further Exploration
 
