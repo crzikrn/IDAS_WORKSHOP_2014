@@ -33,7 +33,7 @@ Let's get our hands dirty!
 * Tutorial Sites, Github Repositories
 * Other Computer Languages for Creative Coding
 	* [d3](http://d3js.org/)
-	* [processing](https://processing.org/exhibition/)
+	* [p5js](http://p5js.org/)
 	* [three.js](http://threejs.org/)
 	* [openframeworks](http://openframeworks.cc/tutorials/)
 	* [cinder](http://libcinder.org/features/)
