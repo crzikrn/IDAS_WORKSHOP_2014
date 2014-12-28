@@ -40,9 +40,8 @@ Let's get our hands dirty!
 
 ## 11:00 AM - Basics of Coding
 * Setting up
-	* download files from github
-	* download p5, emptyExample
-	* setting up HTML, JS files
+	* download processing
+	* testing if it works
 * Positions, Shapes, and Colors
 	* Locating ourselves: Pixels and cartesian Coordinates
 	* ellipse(x,y,r,r)
@@ -58,17 +57,16 @@ Let's get our hands dirty!
 	* conditionals
 		* if
 		* else
-		* elseif
 	* loops
 		*for loop
 * Visualization & State Transitions
-	* loops (for(var i = 0; i < length; i++)) size/color(inc/dec)
+	* loops (for(int i = 0; i < length; i++)) size/color(inc/dec)
 	* mouseX & mouseY
 	* random()
 * If time allows
  	* strings
  	* arrays
- 	* sound
+ 	* (sound)
 
 * Assignment: 
 	* Interactive Poster of a portrait/movie/album Vector style
@@ -88,12 +86,12 @@ Let's get our hands dirty!
 * For loops
 * Arrays
 * Examples
-	* [Bouncing ball]()
-	* [Word appearance]() fonts, words, strings, arrays
+	* Bouncing ball
+	* Word appearance fonts, words, strings, arrays
 	
-## 3:00 PM - Internet Interaction
+## 3:00 PM - Interaction
 * Array of words
-* Objects (JSON, DATA)
+* Classes
 * graphlike
 * shapes manipulated by numbers in arrays
 * play or words and shapes
