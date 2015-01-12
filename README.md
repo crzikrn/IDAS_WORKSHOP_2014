@@ -1,4 +1,4 @@
-IDAS_WORKSHOP_2014 [WORK IN PROGRESS]
+IDAS_WORKSHOP_2014
 ==================
 
 Prototyping with Creative Coding Workshop Syllabus
@@ -89,7 +89,7 @@ Let's get our hands dirty!
 	* Bouncing ball
 	* Word appearance fonts, words, strings, arrays
 	
-## 3:00 PM - Interaction
+## 15:00 PM - Interaction
 * Array of words
 * Classes
 * graphlike
