@@ -81,13 +81,18 @@ Let's get our hands dirty!
     * draw(){}
 	    * add
 	    * subtract
+    * time functions
+    * mousePressed(), keyPressed()
+    * Examples
+    	    * Visual Time
 
 ## 14:00 PM - Pensive Coding
-* For loops
 * Arrays
+* Classes
+* Images
 * Examples
-	* Bouncing ball
-	* Word appearance fonts, words, strings, arrays
+	* Ball animation 
+	* News Title
 	
 ## 15:00 PM - Interaction
 * Array of words
@@ -96,8 +101,8 @@ Let's get our hands dirty!
 * shapes manipulated by numbers in arrays
 * play or words and shapes
 
-## 3:30 PM - Wrap-Up / Project Idea Discussion
-## 5:00 PM - Project Presentations
+## 15:30 PM - Wrap-Up / Project Idea Discussion
+## 17:00 PM - Project Presentations
 ## Homework
    * [Post a link to your work here]
 
