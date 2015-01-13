@@ -74,6 +74,7 @@ Let's get our hands dirty!
 * Assignment: 
 	* Interactive Poster of a portrait/movie/album Vector style
 	* Coded Art
+	* Software for Drawing
 	
 ## 12:30 PM - Lunch
 
