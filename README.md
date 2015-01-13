@@ -62,7 +62,10 @@ Let's get our hands dirty!
 * Visualization & State Transitions
 	* loops (for(int i = 0; i < length; i++)) size/color(inc/dec)
 	* mouseX & mouseY
+	* mousePressed
+	* keyPressed
 	* random()
+	* Exercise: Stage Transitions!
 * If time allows
  	* strings
  	* arrays
@@ -105,4 +108,3 @@ Let's get our hands dirty!
 ## 17:00 PM - Project Presentations
 ## Homework
    * [Post a link to your work here]
-
